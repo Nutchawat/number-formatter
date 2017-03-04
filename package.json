@@ -1,0 +1,26 @@
+{
+  "name": "nutchawat",
+  "version": "0.0.1",
+  "description": "number-formatter",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nutchawat/number-formatter.git"
+  },
+  "author": "Nutchawat Ploywattanawong <pnutchaw@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nutchawat/number-formatter/issues"
+  },
+  "homepage": "https://github.com/Nutchawat/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
