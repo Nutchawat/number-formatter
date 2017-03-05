@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/Nutchawat/number-formatter.svg?branch=master)](https://travis-ci.org/Nutchawat/number-formatter)
-[![Coverage Status](https://coveralls.io/repos/Nutchawat/number-formatter/badge.svg?branch=master)](https://coveralls.io/r/Nutchawat/number-formatter?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/Nutchawat/number-formatter/badge.svg?branch=master)](https://coveralls.io/github/Nutchawat/number-formatter?branch=master)
 
 Number Formatter
 =========
