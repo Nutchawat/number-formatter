@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Nutchawat/number-formatter.svg?branch=master)](https://travis-ci.org/Nutchawat/number-formatter)
+
 Number Formatter
 =========
 
