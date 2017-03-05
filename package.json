@@ -1,6 +1,6 @@
 {
   "name": "nutchawat",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "number-formatter",
   "main": "index.js",
   "scripts": {
